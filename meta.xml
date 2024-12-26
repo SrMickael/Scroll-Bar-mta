@@ -1,0 +1,4 @@
+<meta>
+	<info author="Mickael Tech" type="script" name="Scroll-Bar-mta" version="1.0" />
+	<script src="client.lua" type="client" />
+</meta>
